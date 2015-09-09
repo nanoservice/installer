@@ -6,7 +6,7 @@ Installs nanoservice CLI tool.
 ## Usage
 
 ```bash
-curl -L https://github.com/nanoservice/installer/raw/master/install.sh | bash
+curl -L http://git.io/nanoservice | bash
 ```
 
 This will ask you for your `sudo` password to install the binary in `/usr/local/bin/`.
